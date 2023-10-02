@@ -1,0 +1,19 @@
+
+.. |br| raw:: html .. define a hard line break for HTML
+   
+   <br>
+
+
+.. |nbsp| unicode:: U+00A0 .. non-breaking space
+   :trim:
+
+.. |emd| unicode:: U+02014 .. em dash
+
+.. |end| unicode:: U+02013 .. en dash
+   :trim:
+
+.. |eg| replace:: e.g.,
+
+.. |etal| replace:: et al.
+
+.. |ie| replace:: i.e.,
