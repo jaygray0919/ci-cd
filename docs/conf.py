@@ -63,7 +63,7 @@ source_encoding = 'utf-8-sig'
 master_doc = 'index'
 
 # Project information. Label goes into left nav title block
-project = 'Stripe Systems'
+project = 'CI/CD Documentation'
 copyright = '2023, Ontomatica'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -124,7 +124,7 @@ html_theme_options = {
 html_title = "project"
 
 # A shorter title for the navigation bar. Default is the same as html_title.
-html_short_title = 'Stripe'
+html_short_title = 'CI-CD'
 
 # The name of an image file (relative to this directory) to place at the top of the sidebar.
 #html_logo = 'Ontomatica.png'
@@ -183,7 +183,7 @@ html_show_copyright = False
 
 html_file_suffix = '.html'
 html_search_language = 'en'
-htmlhelp_basename = 'stripe'
+htmlhelp_basename = 'ci-cd'
 html_use_smartypants = False
 html_add_permalinks = '¶'
 html_secnumber_suffix = '. '
